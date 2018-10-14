@@ -1,0 +1,14 @@
+<Payments xmlns="http://www.example.com/Payments" xmlns:p="http://www.example.com/Payments">
+	<p:batchId>1234567</p:batchId>
+	<p:Payment>
+		<p:paymentId>300000001</p:paymentId>
+		<p:paymentTransactionId>300000001</p:paymentTransactionId>
+		<p:amount curreny="USD">34.56</p:amount>
+		<p:source>
+			<p:name></p:name>
+		</p:source>
+		<p:target>
+			<p:name></p:name>
+		</p:target>
+	</p:Payment>
+</Payments>

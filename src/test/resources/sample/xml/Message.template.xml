@@ -1,0 +1,10 @@
+<Message xmlns="http://www.example.com/Message" xmlns:m="http://www.example.com/Message">
+	<m:header>
+		<m:correlationId>1234567</m:correlationId>
+		<m:messageId>10001</m:messageId>
+		<m:sendTime>2018-10-01T14:11:02</m:sendTime>
+	</m:header>
+	<m:productId>450-355</m:productId>
+	<m:date>2018-09-01T23:56:32</m:date>
+	<m:amount>4</m:amount>
+</Message>

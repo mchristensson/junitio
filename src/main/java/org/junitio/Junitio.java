@@ -9,6 +9,4 @@ public class Junitio extends BlockJUnit4ClassRunner {
 		super(klass);
 	}
 
-	
-
 }
